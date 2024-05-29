@@ -118,7 +118,7 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-For any inquiries or feedback, please reach out to [your-email@example.com].
+For any inquiries or feedback, please reach out to [imkrishnasinghsoni@gmail.com].
 
 ---
 
