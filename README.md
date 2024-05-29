@@ -25,16 +25,16 @@ In **Smash The Astero**, you will:
 ![Main Menu](https://github.com/Krishss2006/smahs-the-astero/assets/136157329/4a283c5f-aa14-4481-aa50-1b55192b4deb)
 
 ### Gameplay
-![Gameplay](https://github.com/Krishss2006/smahs-the-astero/assets/136157329/1fac3233-e8c8-48ce-86ac-23cc644ab540)
+![Game Over](https://github.com/Krishss2006/smahs-the-astero/assets/136157329/9767aa99-c79b-43f6-b4e1-71929a3b0e99)
 
 ### Bomb Asteroid
 ![Bomb Asteroid](https://github.com/Krishss2006/smahs-the-astero/assets/136157329/6f426b7d-4382-43d0-87be-bcb5ae29d624)
 
-### Game Over Screen
-![Game Over](https://github.com/Krishss2006/smahs-the-astero/assets/136157329/9767aa99-c79b-43f6-b4e1-71929a3b0e99)
-
-### High Score
+### Pause Game Screen, Press `ESC` to activate.
 ![High Score](https://github.com/Krishss2006/smahs-the-astero/assets/136157329/6a91ee53-2e9b-44ef-bf92-e7f91f17b3fb)
+
+### Game Over Screen
+![Game Over](https://github.com/Krishss2006/smahs-the-astero/assets/136157329/1fac3233-e8c8-48ce-86ac-23cc644ab540)
 
 ## 🛠️ Features
 
